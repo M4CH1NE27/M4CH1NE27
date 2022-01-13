@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>E-Market</title>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
+    <link rel="shortcut icon" href="1.png" type="image/x-icon"/>
+    <div class="intro">
+  </head>
+      
+  <body>
+  <header class="header">
+     <div class="container">
+         <div class="header_inner">
+             <div class="header_logo"><h3>E-Market</h3></div>
+                 <nav class="nav">
+                     <a class="nav_link" href="about.html">About us</a>
+                     <a class="nav_link" href="contacts.html">Contacts</a>
+                     <a class="nav_link" href="registration.html">Registration</a>
+                     <a class="nav_link" href="catalog.html">Catalog</a>
+                 </nav>
+           </div>
+      </div>
+  </header>
+      
+       <div class="container">
+         <div class="intro_inner">
+            <h1 class="intro_title">welcome to E-Market</h1>
+              <p class="text">
+                  <div class="untitle">
+                      <div class="untitle_inner">
+                          <h3 class="untitle_title">we are the largest online electronic store, so we take at a good price, and give with excellent profit & guarantee for iten quality. IF CHOOSE - ONLY E-MARKET</h3>
+                          <p class="text">
+         <hr>
+       </p>
+     </div>
+    </div>
+   </div>
+  </body>
+</html>
